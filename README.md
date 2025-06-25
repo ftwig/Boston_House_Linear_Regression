@@ -53,7 +53,7 @@ Dataset link: [Kaggle - Boston Housing](https://www.kaggle.com/datasets/altavish
 
 **Arya Satyanarayan Sadala**
 
-If you found this useful, feel free to ⭐ the repo or connect on [LinkedIn](https://www.linkedin.com).
+If you found this useful, feel free to ⭐ the repo or connect on [LinkedIn](www.linkedin.com/in/arya-satyanarayan-sadala-0305012b4).
 
 ---
 
