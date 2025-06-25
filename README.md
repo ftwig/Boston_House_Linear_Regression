@@ -12,7 +12,7 @@ This project implements **Linear Regression using Gradient Descent** from scratc
 - Boston Housing Dataset (`sklearn.datasets.load_boston()` or UCI repository)
 
 ## Visualizations
-![Actual vs Predicted](your_image_path.png)
+![Actual vs Predicted](Actual_Predicted.png)
 
 ## License
 MIT License
